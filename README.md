@@ -1,10 +1,10 @@
 # Hi there 👋, how are you doing today?
 
-✔  I’m currently working on Full Stack Web development but I'll switch to cross platform later on 🔭
-✔  I’m currently learning more complex approaches to Full Stack Development 🌱
-✔  I’m looking to collaborate on Flutter and Full stack projects 👯
-✔  I’m looking for help with Game Development 🤔
-✔  Ask me about Philosophy and Psychology cause i really like thoe fields 💬 
+ ✔  I’m currently working on Full Stack Web development but I'll switch to cross platform later on 🔭
+ ✔  I’m currently learning more complex approaches to Full Stack Development 🌱
+ ✔  I’m looking to collaborate on Flutter and Full stack projects 👯
+ ✔  I’m looking for help with Game Development 🤔
+ ✔  Ask me about Philosophy and Psychology cause i really like thoe fields 💬 
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me:
