@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋, how are you doing today?
+
+-  I’m currently working on Full Stack Web development but I'll switch to cross platform later on 🔭
+-  I’m currently learning more complex approaches to Full Stack Development 🌱
+-  I’m looking to collaborate on Flutter and Full stack projects 👯
+-  I’m looking for help with Game Development 🤔
+-  Ask me about Philosophy and Psychology cause i really like thoe fields 💬 
+- 📫 How to reach me: Send me an Email - jobaadewumis@gmail.com, Yell at me on Twitter - https://twitter.com/_jobaa
+<!-- - 😄 Pronouns: ...
+- ⚡ Fun fact: ... -->
 
 <!--
 **JobaAdewumi/JobaAdewumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
