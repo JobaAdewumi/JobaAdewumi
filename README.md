@@ -1,4 +1,4 @@
-### Hi there 👋, how are you doing today?
+# Hi there 👋, how are you doing today?
 
 ✔  I’m currently working on Full Stack Web development but I'll switch to cross platform later on 🔭
 ✔  I’m currently learning more complex approaches to Full Stack Development 🌱
