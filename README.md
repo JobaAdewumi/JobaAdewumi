@@ -4,7 +4,7 @@
 - ✔  I’m currently learning more complex approaches to Full Stack Development 🌱
 - ✔  I’m looking to collaborate on Flutter and Full stack projects 👯
 - ✔  I’m looking for help with Game Development 🤔
-- ✔  Ask me about Philosophy and Psychology cause i really like thoe fields 💬 
+- ✔  Ask me about Philosophy and Psychology cause i really like those fields 💬 
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me:
